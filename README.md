@@ -18,6 +18,4 @@
 <a href="https://instagram.com/1n.nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1n.nl" height="30" width="40" /></a>
 <a href="https://discord.gg/859032305157668874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="859032305157668874" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosam-65-wrm&show_icons=true&locale=en" alt="hosam-65-wrm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosam-65-wrm&" alt="hosam-65-wrm" /></p>
