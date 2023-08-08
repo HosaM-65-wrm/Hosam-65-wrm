@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web and mobile development using javascript frameworks such as react.js, node.js, react native etc..**
 
-- 🌱 I’m currently learning **everything about web and mobile advanced topics.**
+- 🌱 I’m currently learning **Advanced topics in web and mobile development.**
 
 - 📫 How to reach me **hosam.wrr1234@gmail.com**
 
