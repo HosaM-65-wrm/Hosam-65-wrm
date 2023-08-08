@@ -4,7 +4,6 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-</br>
 <h3 align="center">Passionate Software Engineer | Solving Real-World Problems with Code | Full Stack JavaScript & React Native Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/hosam_alrashed" target="blank"><img src="https://img.shields.io/twitter/follow/hosam_alrashed?logo=twitter&style=for-the-badge" alt="hosam_alrashed" /></a> </p>
