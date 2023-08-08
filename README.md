@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Husam Rashed</h1>
+<h1 align="center">Hi 👋, I'm HUSAM RASHED</h1>
 <h3 align="center">Passionate Software Engineer | Solving Real-World Problems with Code | Full Stack JavaScript & React Native Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosam-65-wrm" alt="hosam-65-wrm" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hosam_alrashed" target="blank"><img src="https://img.shields.io/twitter/follow/hosam_alrashed?logo=twitter&style=for-the-badge" alt="hosam_alrashed" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced react native**
+- 🔭 I’m currently working on **I’m currently working on web and mobile development using javascript frameworks such as react.js, node.js, react native etc..**
+
+- 🌱 I’m currently learning **everything about web and mobile advanced topics.**
 
 - 📫 How to reach me **hosam.wrr1234@gmail.com**
 
@@ -12,6 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/hosam_alrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hosam_alrashed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/husam-rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husam-rashed" height="30" width="40" /></a>
+<a href="https://instagram.com/1n.nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1n.nl" height="30" width="40" /></a>
+<a href="https://discord.gg/859032305157668874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="859032305157668874" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
