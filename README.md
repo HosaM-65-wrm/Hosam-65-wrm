@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HUSAM RASHED</h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Mobile Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Mobile+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Passionate Software Engineer | Solving Real-World Problems with Code | Full Stack JavaScript & React Native Developer</h3>
 
