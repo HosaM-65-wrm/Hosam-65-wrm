@@ -2,7 +2,7 @@
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Mobile+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">Passionate Software Engineer | Solving Real-World Problems with Code | Full Stack JavaScript & React Native Developer</h3>
+<h3 align="center">Passionate Software Engineer | Full Stack JavaScript & React Native Developer | Solving Real-World Problems with Code</h3>
 
 <p align="left"> <a href="https://twitter.com/hosam_alrashed" target="blank"><img src="https://img.shields.io/twitter/follow/hosam_alrashed?logo=twitter&style=for-the-badge" alt="hosam_alrashed" /></a> </p>
 
