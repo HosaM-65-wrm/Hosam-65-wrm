@@ -1,6 +1,5 @@
-<div align="center">
 
-<h1>Hi 👋, I'm HUSAM RASHED</h1>
+<h1 align="center">Hi 👋, I'm HUSAM RASHED</h1>
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Mobile+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
@@ -30,6 +29,3 @@
 <a href="https://instagram.com/1n.nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1n.nl" height="30" width="40" /></a>
 <a href="https://discord.gg/859032305157668874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="859032305157668874" height="30" width="40" /></a>
 </p>
-
-</div>
-
