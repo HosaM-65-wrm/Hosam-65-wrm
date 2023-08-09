@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="center">
 <picture>
-<img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,php,discord,dynamodb,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nodejs,postman,react,redux,vscode,reactnative&perline=14" style="pointer-events: none;" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,php,html,css,bootstrap,nodejs,express,react,firebase,mongodb,mysql,discord,figma,,github,linux,postman,redux,git,vscode&perline=14" style="pointer-events: none;" />
 </picture>
 </p>
 
