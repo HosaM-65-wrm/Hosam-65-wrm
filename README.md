@@ -5,8 +5,6 @@
 </p>
 <h3 align="center">Passionate Software Engineer | Full Stack JavaScript & React Native Developer | Solving Real-World Problems with Code</h3>
 
-<p align="left"> <a href="https://twitter.com/hosam_alrashed" target="blank"><img src="https://img.shields.io/twitter/follow/hosam_alrashed?logo=twitter&style=for-the-badge" alt="hosam_alrashed" /></a> </p>
-
 - 🔭 I’m currently working on **Web and mobile development using javascript frameworks such as react.js, node.js, react native etc..**
 
 - 🌱 I’m currently learning **Advanced topics in web and mobile development.**
